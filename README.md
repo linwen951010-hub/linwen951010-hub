@@ -1,6 +1,6 @@
 ## Hi there 👋I am 賴昱雯
 
--🔭 I’m currently working on ...長榮大學
+- 🔭 I’m currently working on ...長榮大學
 - 🌱 I’m currently learning ...航運管理、日語
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
